@@ -27,7 +27,7 @@ public class TemplateAdapter extends RecyclerView.Adapter<TemplateViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull TemplateViewHolder holder, int position) {
         Template template = templatesList.get(position);
-        holder.templateIdTxt.setText(template.templateId);
+        holder.templateIdTxt.setText(template.messageTxt);
     }
 
     @Override
