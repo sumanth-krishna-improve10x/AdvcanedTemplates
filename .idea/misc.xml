@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/reethu/AndroidStudioProjects/AdvcanedTemplates/app/src/main/res/layout/activity_add_template.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/reethu/AndroidStudioProjects/AdvcanedTemplates/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/reethu/AndroidStudioProjects/AdvcanedTemplates/app/src/main/res/layout/activity_template.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/reethu/AndroidStudioProjects/AdvcanedTemplates/app/src/main/res/layout/template_item.xml" value="0.16145833333333334" />
       </map>
     </option>
   </component>
